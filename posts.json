@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "author": "userA@example.com",
+    "comments": [],
+    "likes": 0
+  }
+]

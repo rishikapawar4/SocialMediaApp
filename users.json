@@ -1,0 +1,52 @@
+[
+  {
+    "email": "admin@example.com",
+    "password": "$2a$08$R8PZQEV3ajt8v5wuLEOhauGZz11YmSV.6QPnWpCz0odMLcCtWGUcG",
+    "mobile": "9876543210",
+    "role": "admin",
+    "following": [],
+    "verified": true,
+    "accountType": "public",
+    "followRequests": []
+  },
+  {
+    "email": "userA@example.com",
+    "password": "$2a$08$HA8H.smDbhKuwcv19R07Suhgn6cHS/Pa7FCnXyenhpkczsFVNy3Eu",
+    "mobile": "1234567890",
+    "role": "user",
+    "following": [],
+    "verified": true,
+    "accountType": "public",
+    "followRequests": []
+  },
+  {
+    "email": "userB@example.com",
+    "password": "$2a$08$mocWerHrTWIl3/4x67aA6eEcEu5bie3.WTBUtJu.rNXQVfBqGEFLW",
+    "mobile": "0987654321",
+    "role": "user",
+    "following": [],
+    "verified": true,
+    "accountType": "public",
+    "followRequests": []
+  },
+  {
+    "email": "user1@example.com",
+    "password": "$2a$08$toDMZwTyyog9Ls.md74vK.U.Kl21uEtmkmm/plvLQ1PdAlYe0ys2G",
+    "mobile": "976543210",
+    "role": "registered",
+    "following": [],
+    "verified": true,
+    "accountType": "public",
+    "followRequests": []
+  },
+  {
+    "email": "admin2@example.com",
+    "password": "$2a$08$PHSRzEzx0nRAsWWBDJpIx..2hfeuEzrcNQnqh8BLixB7LQAq0wCke",
+    "mobile": "98765410",
+    "role": "admin",
+    "following": [],
+    "verified": true,
+    "accountType": "public",
+    "followRequests": []
+  }
+]
